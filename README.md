@@ -7,3 +7,5 @@ this is feature one
     
     this is feature 3
     
+    feature 5 has conflict with feature 4
+    
